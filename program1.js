@@ -45,7 +45,6 @@ const map2 = [
 console.log(getTotalIsles(map1));
 console.log(getTotalIsles(map2)); 
 
-<<<<<<< HEAD
 module.exports = getTotalIsles;
 =======
 module.exports = getTotalIsles;
