@@ -46,5 +46,3 @@ console.log(getTotalIsles(map1));
 console.log(getTotalIsles(map2)); 
 
 module.exports = getTotalIsles;
-module.exports = getTotalIsles;
->>>>>>> 9fb573a246dd9e7b2d28cf7bba7d6cd319a56
